@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "RUNNER",
+  "base_artist": "GADORO",
+  "createdAt": "2026-02-16T14:42:46.086961Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Road Runner",
+      "artist": "Lainey Wilson",
+      "has_synced": true,
+      "path": "select/01_Road_Runner_Lainey_Wilson.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Road Runner",
+      "artist": "The Zombies",
+      "has_synced": true,
+      "path": "select/02_Road_Runner_The_Zombies.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Blade Runner - End Titles",
+      "artist": "Vangelis",
+      "has_synced": false,
+      "path": "select/03_Blade_Runner_-_End_Titles_Vangelis.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Main Titles (From \"Blade Runner\")",
+      "artist": "Vangelis",
+      "has_synced": true,
+      "path": "select/04_Main_Titles_(From__Blade_Runner_)_Vangelis.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(I'm A) Road Runner",
+      "artist": "Fleetwood Mac",
+      "has_synced": false,
+      "path": "select/05_(I'm_A)_Road_Runner_Fleetwood_Mac.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "The Runner",
+      "artist": "Bananarama",
+      "has_synced": true,
+      "path": "select/06_The_Runner_Bananarama.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "End Title (Blade Runner)",
+      "artist": "Hipnosis",
+      "has_synced": false,
+      "path": "select/07_End_Title_(Blade_Runner)_Hipnosis.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "End Title - Blade Runner",
+      "artist": "Hypnosis",
+      "has_synced": false,
+      "path": "select/08_End_Title_-_Blade_Runner_Hypnosis.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "The Runner (Acappella)",
+      "artist": "Chromatics",
+      "has_synced": true,
+      "path": "select/09_The_Runner_(Acappella)_Chromatics.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Runner",
+      "artist": "Chromatics",
+      "has_synced": true,
+      "path": "select/10_The_Runner_Chromatics.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "The Runner",
+      "artist": "Yota",
+      "has_synced": true,
+      "path": "select/11_The_Runner_Yota.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Midnight Runner",
+      "artist": "Cut Copy",
+      "has_synced": true,
+      "path": "select/12_Midnight_Runner_Cut_Copy.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "RUNNER feat. 般若",
+      "artist": "GADORO",
+      "has_synced": false,
+      "path": "select/pl_01_RUNNER_feat._般若_GADORO.txt"
+    }
+  ]
+}
